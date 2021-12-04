@@ -19,5 +19,8 @@ print(compareTriplets(a: [17,28,30], b: [99,16,8]))
 //문제 "A Very Big Sum" 출력
 print(veryBigSum(arr: [1000000001, 1000000002, 1000000003, 1000000004, 1000000005]))
 
-//문자 "Time Conversion" 출력
+//문제 "Time Conversion" 출력
 print(timeConversion(s: "07:05:45PM"))
+
+//문제 "Number Line Jumps" 출력
+print(kangaroo(x1: 0, v1: 3, x2: 4, v2: 2))
