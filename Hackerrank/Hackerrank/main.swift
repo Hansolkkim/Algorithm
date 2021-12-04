@@ -27,3 +27,6 @@ print(kangaroo(x1: 0, v1: 3, x2: 4, v2: 2))
 
 //문제 "Birthday Cake Candles" 출력
 print(birthdayCakeCandles(candles: [3,2,1,3]))
+
+//문제 "Diagonal Difference" 출력
+print(diagonalDifference(arr: [[11,2,4], [4,5,6], [10, 8, -12]]))
