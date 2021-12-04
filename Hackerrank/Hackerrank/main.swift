@@ -15,3 +15,6 @@ print(grading(grades: [73,67,38,33]))
 
 //문제 "Compare the Triplets" 출력
 print(compareTriplets(a: [17,28,30], b: [99,16,8]))
+
+//문제 "A Very Big Sum" 출력
+print(veryBigSum(arr: [1000000001, 1000000002, 1000000003, 1000000004, 1000000005]))

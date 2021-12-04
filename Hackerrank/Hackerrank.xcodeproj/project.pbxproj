@@ -11,6 +11,7 @@
 		023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9248275B47FD008A65DA /* Solve Me First.swift */; };
 		023D924C275B4955008A65DA /* Grading Students.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D924B275B4955008A65DA /* Grading Students.swift */; };
 		023D924E275B4A7D008A65DA /* Compare the Triplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D924D275B4A7D008A65DA /* Compare the Triplets.swift */; };
+		023D9250275B4B53008A65DA /* A Very Big Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D924F275B4B53008A65DA /* A Very Big Sum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +33,7 @@
 		023D924A275B4876008A65DA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		023D924B275B4955008A65DA /* Grading Students.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Grading Students.swift"; sourceTree = "<group>"; };
 		023D924D275B4A7D008A65DA /* Compare the Triplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Compare the Triplets.swift"; sourceTree = "<group>"; };
+		023D924F275B4B53008A65DA /* A Very Big Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "A Very Big Sum.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				023D9248275B47FD008A65DA /* Solve Me First.swift */,
 				023D924B275B4955008A65DA /* Grading Students.swift */,
 				023D924D275B4A7D008A65DA /* Compare the Triplets.swift */,
+				023D924F275B4B53008A65DA /* A Very Big Sum.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 				023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */,
 				023D9242275B477D008A65DA /* main.swift in Sources */,
 				023D924C275B4955008A65DA /* Grading Students.swift in Sources */,
+				023D9250275B4B53008A65DA /* A Very Big Sum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
