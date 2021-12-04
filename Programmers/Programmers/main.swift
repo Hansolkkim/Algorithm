@@ -18,3 +18,6 @@ print(plusTwoElement([5,0,2,7]))
 
 //문제 "모의고사" 출력
 print(determineWinner([1,3,2,4,2]))
+
+//문제 "2016년" 출력
+print(dayIn2016(5, 24))
