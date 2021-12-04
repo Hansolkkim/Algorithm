@@ -14,6 +14,7 @@
 		023D9250275B4B53008A65DA /* A Very Big Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D924F275B4B53008A65DA /* A Very Big Sum.swift */; };
 		023D9252275B4C70008A65DA /* Time Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9251275B4C70008A65DA /* Time Conversion.swift */; };
 		023D9254275B4DEA008A65DA /* Number Line Jumps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9253275B4DEA008A65DA /* Number Line Jumps.swift */; };
+		023D9256275B4E89008A65DA /* Birthday Cake Candles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9255275B4E89008A65DA /* Birthday Cake Candles.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +39,7 @@
 		023D924F275B4B53008A65DA /* A Very Big Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "A Very Big Sum.swift"; sourceTree = "<group>"; };
 		023D9251275B4C70008A65DA /* Time Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Time Conversion.swift"; sourceTree = "<group>"; };
 		023D9253275B4DEA008A65DA /* Number Line Jumps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number Line Jumps.swift"; sourceTree = "<group>"; };
+		023D9255275B4E89008A65DA /* Birthday Cake Candles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Birthday Cake Candles.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				023D924F275B4B53008A65DA /* A Very Big Sum.swift */,
 				023D9251275B4C70008A65DA /* Time Conversion.swift */,
 				023D9253275B4DEA008A65DA /* Number Line Jumps.swift */,
+				023D9255275B4E89008A65DA /* Birthday Cake Candles.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				023D9254275B4DEA008A65DA /* Number Line Jumps.swift in Sources */,
 				023D924E275B4A7D008A65DA /* Compare the Triplets.swift in Sources */,
 				023D9252275B4C70008A65DA /* Time Conversion.swift in Sources */,
+				023D9256275B4E89008A65DA /* Birthday Cake Candles.swift in Sources */,
 				023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */,
 				023D9242275B477D008A65DA /* main.swift in Sources */,
 				023D924C275B4955008A65DA /* Grading Students.swift in Sources */,

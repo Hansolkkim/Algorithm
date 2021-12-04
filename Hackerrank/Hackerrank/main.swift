@@ -24,3 +24,6 @@ print(timeConversion(s: "07:05:45PM"))
 
 //문제 "Number Line Jumps" 출력
 print(kangaroo(x1: 0, v1: 3, x2: 4, v2: 2))
+
+//문제 "Birthday Cake Candles" 출력
+print(birthdayCakeCandles(candles: [3,2,1,3]))
