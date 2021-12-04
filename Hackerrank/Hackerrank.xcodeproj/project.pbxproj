@@ -17,6 +17,7 @@
 		023D9256275B4E89008A65DA /* Birthday Cake Candles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9255275B4E89008A65DA /* Birthday Cake Candles.swift */; };
 		023D9258275B4F69008A65DA /* Diagonal Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9257275B4F69008A65DA /* Diagonal Difference.swift */; };
 		023D925A275B50AC008A65DA /* Plus Minus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9259275B50AC008A65DA /* Plus Minus.swift */; };
+		023D925C275B51B2008A65DA /* Mini-Max Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D925B275B51B2008A65DA /* Mini-Max Sum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -44,6 +45,7 @@
 		023D9255275B4E89008A65DA /* Birthday Cake Candles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Birthday Cake Candles.swift"; sourceTree = "<group>"; };
 		023D9257275B4F69008A65DA /* Diagonal Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Diagonal Difference.swift"; sourceTree = "<group>"; };
 		023D9259275B50AC008A65DA /* Plus Minus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plus Minus.swift"; sourceTree = "<group>"; };
+		023D925B275B51B2008A65DA /* Mini-Max Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Mini-Max Sum.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				023D9255275B4E89008A65DA /* Birthday Cake Candles.swift */,
 				023D9257275B4F69008A65DA /* Diagonal Difference.swift */,
 				023D9259275B50AC008A65DA /* Plus Minus.swift */,
+				023D925B275B51B2008A65DA /* Mini-Max Sum.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				023D924E275B4A7D008A65DA /* Compare the Triplets.swift in Sources */,
 				023D9252275B4C70008A65DA /* Time Conversion.swift in Sources */,
 				023D9256275B4E89008A65DA /* Birthday Cake Candles.swift in Sources */,
+				023D925C275B51B2008A65DA /* Mini-Max Sum.swift in Sources */,
 				023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */,
 				023D9242275B477D008A65DA /* main.swift in Sources */,
 				023D9258275B4F69008A65DA /* Diagonal Difference.swift in Sources */,
