@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		023D9242275B477D008A65DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9241275B477D008A65DA /* main.swift */; };
 		023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9248275B47FD008A65DA /* Solve Me First.swift */; };
+		023D924C275B4955008A65DA /* Grading Students.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D924B275B4955008A65DA /* Grading Students.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,7 @@
 		023D9241275B477D008A65DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		023D9248275B47FD008A65DA /* Solve Me First.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Solve Me First.swift"; sourceTree = "<group>"; };
 		023D924A275B4876008A65DA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		023D924B275B4955008A65DA /* Grading Students.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Grading Students.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				023D9241275B477D008A65DA /* main.swift */,
 				023D9248275B47FD008A65DA /* Solve Me First.swift */,
+				023D924B275B4955008A65DA /* Grading Students.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */,
 				023D9242275B477D008A65DA /* main.swift in Sources */,
+				023D924C275B4955008A65DA /* Grading Students.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
