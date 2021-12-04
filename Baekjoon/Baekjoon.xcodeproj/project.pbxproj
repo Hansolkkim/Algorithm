@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		023D91FB275B34F1008A65DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D91FA275B34F1008A65DA /* main.swift */; };
 		023D9204275B35C7008A65DA /* p1000.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9203275B35C7008A65DA /* p1000.swift */; };
+		023D9207275B3886008A65DA /* p1008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9206275B3886008A65DA /* p1008.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,7 @@
 		023D91FA275B34F1008A65DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		023D9203275B35C7008A65DA /* p1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1000.swift; sourceTree = "<group>"; };
 		023D9205275B370A008A65DA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		023D9206275B3886008A65DA /* p1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1008.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				023D91FA275B34F1008A65DA /* main.swift */,
 				023D9203275B35C7008A65DA /* p1000.swift */,
+				023D9206275B3886008A65DA /* p1008.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				023D91FB275B34F1008A65DA /* main.swift in Sources */,
+				023D9207275B3886008A65DA /* p1008.swift in Sources */,
 				023D9204275B35C7008A65DA /* p1000.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
