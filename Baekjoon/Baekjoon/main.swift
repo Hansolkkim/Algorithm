@@ -21,3 +21,6 @@ scaleNotation()
 
 //문제 8958번 출력
 quizOX()
+
+//문제 11654번 출력
+printASCII()
