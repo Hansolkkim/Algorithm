@@ -6,3 +6,4 @@
 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)
+[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
