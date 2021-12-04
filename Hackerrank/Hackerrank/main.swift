@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
-
+//문제 "Solve Me First" 출력
+solveMeFirst()
