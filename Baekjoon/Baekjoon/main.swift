@@ -15,3 +15,6 @@ divideTwoThings()
 
 //문제 2438번 출력
 drawStars()
+
+//문제 2920번 출력
+scaleNotation()
