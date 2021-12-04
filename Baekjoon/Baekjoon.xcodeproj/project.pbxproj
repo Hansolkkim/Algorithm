@@ -27,6 +27,7 @@
 		023D91F7275B34F1008A65DA /* Baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		023D91FA275B34F1008A65DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		023D9203275B35C7008A65DA /* p1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1000.swift; sourceTree = "<group>"; };
+		023D9205275B370A008A65DA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		023D91EE275B34F1008A65DA = {
 			isa = PBXGroup;
 			children = (
+				023D9205275B370A008A65DA /* README.md */,
 				023D91F9275B34F1008A65DA /* Baekjoon */,
 				023D91F8275B34F1008A65DA /* Products */,
 			);
