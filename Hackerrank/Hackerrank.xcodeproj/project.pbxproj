@@ -27,6 +27,7 @@
 		023D923E275B477D008A65DA /* Hackerrank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Hackerrank; sourceTree = BUILT_PRODUCTS_DIR; };
 		023D9241275B477D008A65DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		023D9248275B47FD008A65DA /* Solve Me First.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Solve Me First.swift"; sourceTree = "<group>"; };
+		023D924A275B4876008A65DA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		023D9235275B477D008A65DA = {
 			isa = PBXGroup;
 			children = (
+				023D924A275B4876008A65DA /* README.md */,
 				023D9240275B477D008A65DA /* Hackerrank */,
 				023D923F275B477D008A65DA /* Products */,
 			);
