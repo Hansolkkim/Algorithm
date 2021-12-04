@@ -19,6 +19,7 @@
 		023D925A275B50AC008A65DA /* Plus Minus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9259275B50AC008A65DA /* Plus Minus.swift */; };
 		023D925C275B51B2008A65DA /* Mini-Max Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D925B275B51B2008A65DA /* Mini-Max Sum.swift */; };
 		023D925E275B5278008A65DA /* Breaking the Records.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D925D275B5278008A65DA /* Breaking the Records.swift */; };
+		023D9260275B5398008A65DA /* Apple and Orange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D925F275B5398008A65DA /* Apple and Orange.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -48,6 +49,7 @@
 		023D9259275B50AC008A65DA /* Plus Minus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plus Minus.swift"; sourceTree = "<group>"; };
 		023D925B275B51B2008A65DA /* Mini-Max Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Mini-Max Sum.swift"; sourceTree = "<group>"; };
 		023D925D275B5278008A65DA /* Breaking the Records.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Breaking the Records.swift"; sourceTree = "<group>"; };
+		023D925F275B5398008A65DA /* Apple and Orange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Apple and Orange.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				023D9259275B50AC008A65DA /* Plus Minus.swift */,
 				023D925B275B51B2008A65DA /* Mini-Max Sum.swift */,
 				023D925D275B5278008A65DA /* Breaking the Records.swift */,
+				023D925F275B5398008A65DA /* Apple and Orange.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				023D925C275B51B2008A65DA /* Mini-Max Sum.swift in Sources */,
 				023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */,
 				023D9242275B477D008A65DA /* main.swift in Sources */,
+				023D9260275B5398008A65DA /* Apple and Orange.swift in Sources */,
 				023D9258275B4F69008A65DA /* Diagonal Difference.swift in Sources */,
 				023D925A275B50AC008A65DA /* Plus Minus.swift in Sources */,
 				023D924C275B4955008A65DA /* Grading Students.swift in Sources */,

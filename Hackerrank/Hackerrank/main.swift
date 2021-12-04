@@ -39,3 +39,6 @@ miniMaxSum(arr: [1,2,3,4,5])
 
 //문제 "Breaking the Records" 출력
 print(breakingRecords(scores: [12, 24, 10, 24]))
+
+//문제 "Apple and Orange" 출력
+countApplesAndOranges(s: 7, t: 11, a: 5, b: 15, apples: [-2,2,1], oranges: [5,-6])
