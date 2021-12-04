@@ -16,6 +16,7 @@
 		023D9254275B4DEA008A65DA /* Number Line Jumps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9253275B4DEA008A65DA /* Number Line Jumps.swift */; };
 		023D9256275B4E89008A65DA /* Birthday Cake Candles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9255275B4E89008A65DA /* Birthday Cake Candles.swift */; };
 		023D9258275B4F69008A65DA /* Diagonal Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9257275B4F69008A65DA /* Diagonal Difference.swift */; };
+		023D925A275B50AC008A65DA /* Plus Minus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9259275B50AC008A65DA /* Plus Minus.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -42,6 +43,7 @@
 		023D9253275B4DEA008A65DA /* Number Line Jumps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number Line Jumps.swift"; sourceTree = "<group>"; };
 		023D9255275B4E89008A65DA /* Birthday Cake Candles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Birthday Cake Candles.swift"; sourceTree = "<group>"; };
 		023D9257275B4F69008A65DA /* Diagonal Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Diagonal Difference.swift"; sourceTree = "<group>"; };
+		023D9259275B50AC008A65DA /* Plus Minus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plus Minus.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				023D9253275B4DEA008A65DA /* Number Line Jumps.swift */,
 				023D9255275B4E89008A65DA /* Birthday Cake Candles.swift */,
 				023D9257275B4F69008A65DA /* Diagonal Difference.swift */,
+				023D9259275B50AC008A65DA /* Plus Minus.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */,
 				023D9242275B477D008A65DA /* main.swift in Sources */,
 				023D9258275B4F69008A65DA /* Diagonal Difference.swift in Sources */,
+				023D925A275B50AC008A65DA /* Plus Minus.swift in Sources */,
 				023D924C275B4955008A65DA /* Grading Students.swift in Sources */,
 				023D9250275B4B53008A65DA /* A Very Big Sum.swift in Sources */,
 			);

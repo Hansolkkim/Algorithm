@@ -8,3 +8,4 @@
 [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)
 [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
