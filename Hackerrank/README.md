@@ -10,3 +10,4 @@
 [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
 [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=7-day-campaign)

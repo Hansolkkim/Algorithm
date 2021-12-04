@@ -18,6 +18,7 @@
 		023D9258275B4F69008A65DA /* Diagonal Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9257275B4F69008A65DA /* Diagonal Difference.swift */; };
 		023D925A275B50AC008A65DA /* Plus Minus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9259275B50AC008A65DA /* Plus Minus.swift */; };
 		023D925C275B51B2008A65DA /* Mini-Max Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D925B275B51B2008A65DA /* Mini-Max Sum.swift */; };
+		023D925E275B5278008A65DA /* Breaking the Records.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D925D275B5278008A65DA /* Breaking the Records.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +47,7 @@
 		023D9257275B4F69008A65DA /* Diagonal Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Diagonal Difference.swift"; sourceTree = "<group>"; };
 		023D9259275B50AC008A65DA /* Plus Minus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plus Minus.swift"; sourceTree = "<group>"; };
 		023D925B275B51B2008A65DA /* Mini-Max Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Mini-Max Sum.swift"; sourceTree = "<group>"; };
+		023D925D275B5278008A65DA /* Breaking the Records.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Breaking the Records.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				023D9257275B4F69008A65DA /* Diagonal Difference.swift */,
 				023D9259275B50AC008A65DA /* Plus Minus.swift */,
 				023D925B275B51B2008A65DA /* Mini-Max Sum.swift */,
+				023D925D275B5278008A65DA /* Breaking the Records.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				023D9254275B4DEA008A65DA /* Number Line Jumps.swift in Sources */,
 				023D924E275B4A7D008A65DA /* Compare the Triplets.swift in Sources */,
 				023D9252275B4C70008A65DA /* Time Conversion.swift in Sources */,
+				023D925E275B5278008A65DA /* Breaking the Records.swift in Sources */,
 				023D9256275B4E89008A65DA /* Birthday Cake Candles.swift in Sources */,
 				023D925C275B51B2008A65DA /* Mini-Max Sum.swift in Sources */,
 				023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */,

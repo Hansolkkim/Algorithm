@@ -36,3 +36,6 @@ print(plusMinus(arr: [1,1,0,-1,-1]))
 
 //문제 "Mini-Max Sum" 출력
 miniMaxSum(arr: [1,2,3,4,5])
+
+//문제 "Breaking the Records" 출력
+print(breakingRecords(scores: [12, 24, 10, 24]))
