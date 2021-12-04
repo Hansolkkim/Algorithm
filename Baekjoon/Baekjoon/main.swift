@@ -18,3 +18,6 @@ drawStars()
 
 //문제 2920번 출력
 scaleNotation()
+
+//문제 8958번 출력
+quizOX()
