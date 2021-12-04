@@ -7,5 +7,11 @@
 
 import Foundation
 
+//문제 1000번 출력
 plusTwoThings()
 
+//문제 1008번 출력
+divideTwoThings()
+
+//문제 2438번 출력
+drawStars()
