@@ -27,3 +27,6 @@ print(sumOfAliquot(12))
 
 //문제 "K번째수" 출력
 print(kthNumber([1,5,2,6,3,7,4], [[2,5,3], [4,4,1], [1,7,3]]))
+
+//문제 "없는 숫자 더하기" 출력
+print(plusUnexistNumber([1,2,3,4,6,7,8,0]))
