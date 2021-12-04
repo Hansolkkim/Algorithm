@@ -21,3 +21,6 @@ print(determineWinner([1,3,2,4,2]))
 
 //문제 "2016년" 출력
 print(dayIn2016(5, 24))
+
+//문제 "약수의 합" 출력
+print(sumOfAliquot(12))

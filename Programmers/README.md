@@ -5,3 +5,4 @@
 [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)
