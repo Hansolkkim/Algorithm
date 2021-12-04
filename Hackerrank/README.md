@@ -2,3 +2,4 @@
 
 [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)
 [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
+[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)

@@ -12,3 +12,6 @@ solveMeFirst()
 
 //문제 "Grading Students" 출력
 print(grading(grades: [73,67,38,33]))
+
+//문제 "Compare the Triplets" 출력
+print(compareTriplets(a: [17,28,30], b: [99,16,8]))
