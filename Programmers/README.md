@@ -10,3 +10,4 @@
 * [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
 * [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 * [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
+* [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
