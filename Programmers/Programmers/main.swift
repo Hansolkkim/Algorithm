@@ -33,3 +33,6 @@ print(plusUnexistNumber([1,2,3,4,6,7,8,0]))
 
 //문제 "체육복" 출력
 print(gymClothes(6, [1,3,5], [2,4,6]))
+
+//문제 "최소직사각형" 출력
+print(getMinSquare([[10, 7], [12, 3], [8, 15], [14, 7], [5, 15]]))
