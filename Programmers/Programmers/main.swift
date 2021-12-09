@@ -39,3 +39,6 @@ print(getMinSquare([[10, 7], [12, 3], [8, 15], [14, 7], [5, 15]]))
 
 //문제 "나머지가 1이 되는 수 찾기" 출력
 print(findNumber(10))
+
+//문제 "부족한 금액 계산하기" 출력
+print(calculatorShorfall(3, 20, 4))
