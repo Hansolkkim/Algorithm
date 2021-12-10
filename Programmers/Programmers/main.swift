@@ -42,3 +42,6 @@ print(findNumber(10))
 
 //문제 "부족한 금액 계산하기" 출력
 print(calculatorShorfall(3, 20, 4))
+
+//문제 "비밀지도" 출력
+print(interpretSecretMap(5, [9, 20, 28, 18, 11], [30, 1, 21, 17, 28]))
