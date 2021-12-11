@@ -42,3 +42,6 @@ print(breakingRecords(scores: [12, 24, 10, 24]))
 
 //문제 "Apple and Orange" 출력
 countApplesAndOranges(s: 7, t: 11, a: 5, b: 15, apples: [-2,2,1], oranges: [5,-6])
+
+//문제 "Migratory Birds" 출력
+print(migratoryBirds(arr: [1,4,4,4,5,3]))
