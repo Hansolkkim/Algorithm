@@ -9,20 +9,6 @@ import Foundation
 
 func migratoryBirds(arr: [Int]) -> Int {
     var dict = Dictionary<Int, Int>()
-    arr.forEach {(arrElement) in
-        let condition: ((Int, Int)) -> Bool = {
-            $0.0 == arrElement
-        }
-        if !dict.contains(where: condition) {
-            dict.updateValue(1, forKey: arrElement)
-        } else {
-            let tempVal = dict[arrElement]!
-            dict.updateValue(tempVal+1, forKey: arrElement)
-        }
-    }
-    var max = 1, maxKey = 0
-    for (key,value) in dict {
-        if value > max {max = value; maxKey = key}
-    }
-    return maxKey
+    arr.forEach { dict[$0] = (dict[$0] ?? 0) + 1 }
+    return dict.filter {$0.1 == dict.values.max()}.keys.min() ?? 0
 }
