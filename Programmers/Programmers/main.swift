@@ -45,3 +45,6 @@ print(calculatorShorfall(3, 20, 4))
 
 //문제 "비밀지도" 출력
 print(interpretSecretMap(5, [9, 20, 28, 18, 11], [30, 1, 21, 17, 28]))
+
+//문재 "내적" 출력
+print(dotProduct([-1,0,1], [1,0,-1]))
