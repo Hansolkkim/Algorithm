@@ -11,4 +11,6 @@ func dotProduct(_ a: [Int],_ b: [Int]) -> Int {
     return a.enumerated().map {
         return $0.element * b[$0.offset]
     }.reduce(0, +)
+    
+    //return zip(a,b).map(*).reduce(0, +)
 }
