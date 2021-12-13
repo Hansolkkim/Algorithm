@@ -45,3 +45,6 @@ countApplesAndOranges(s: 7, t: 11, a: 5, b: 15, apples: [-2,2,1], oranges: [5,-6
 
 //문제 "Migratory Birds" 출력
 print(migratoryBirds(arr: [1,4,4,4,5,3]))
+
+//문제 "Subarray Division" 출력
+print(birthday(s: [1,2,1,3,2], d: 3, m: 2))

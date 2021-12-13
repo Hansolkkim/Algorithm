@@ -13,3 +13,4 @@
 * [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=7-day-campaign)
 * [Apple and Orage](https://www.hackerrank.com/challenges/apple-and-orange/problem)
 * [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
+* [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
