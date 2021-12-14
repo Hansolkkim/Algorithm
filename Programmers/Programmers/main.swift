@@ -48,3 +48,6 @@ print(interpretSecretMap(5, [9, 20, 28, 18, 11], [30, 1, 21, 17, 28]))
 
 //문재 "내적" 출력
 print(dotProduct([-1,0,1], [1,0,-1]))
+
+//문제 "3진법 뒤집기" 출력
+print(convertTenaryAndReversedNum(125))

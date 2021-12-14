@@ -13,3 +13,4 @@
 * [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
 * [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 * [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
+* [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
