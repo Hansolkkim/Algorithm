@@ -51,3 +51,6 @@ print(dotProduct([-1,0,1], [1,0,-1]))
 
 //문제 "3진법 뒤집기" 출력
 print(convertTenaryAndReversedNum(125))
+
+//문제 "가운데 글자 가져오기" 출력
+print(pickMiddleChar("abcd"))
