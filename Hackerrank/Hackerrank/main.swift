@@ -48,3 +48,6 @@ print(migratoryBirds(arr: [1,4,4,4,5,3]))
 
 //문제 "Subarray Division" 출력
 print(birthday(s: [1,2,1,3,2], d: 3, m: 2))
+
+//문제 "Cats and a Mouse" 출력
+print(catAndMouse(x: 1, y: 3, z: 2))

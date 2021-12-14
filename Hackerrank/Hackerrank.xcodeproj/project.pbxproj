@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		021A6FE6276863D500D64832 /* Cats and a Mouse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021A6FE5276863D500D64832 /* Cats and a Mouse.swift */; };
 		023D9242275B477D008A65DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9241275B477D008A65DA /* main.swift */; };
 		023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9248275B47FD008A65DA /* Solve Me First.swift */; };
 		023D924C275B4955008A65DA /* Grading Students.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D924B275B4955008A65DA /* Grading Students.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		021A6FE5276863D500D64832 /* Cats and a Mouse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Cats and a Mouse.swift"; sourceTree = "<group>"; };
 		023D923E275B477D008A65DA /* Hackerrank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Hackerrank; sourceTree = BUILT_PRODUCTS_DIR; };
 		023D9241275B477D008A65DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		023D9248275B47FD008A65DA /* Solve Me First.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Solve Me First.swift"; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				023D925F275B5398008A65DA /* Apple and Orange.swift */,
 				0277F01027644809005329AB /* Migratory Birds.swift */,
 				02F5D47C2766DEB5008307C7 /* Subarray Division.swift */,
+				021A6FE5276863D500D64832 /* Cats and a Mouse.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 				023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */,
 				023D9242275B477D008A65DA /* main.swift in Sources */,
 				0277F01127644809005329AB /* Migratory Birds.swift in Sources */,
+				021A6FE6276863D500D64832 /* Cats and a Mouse.swift in Sources */,
 				023D9260275B5398008A65DA /* Apple and Orange.swift in Sources */,
 				023D9258275B4F69008A65DA /* Diagonal Difference.swift in Sources */,
 				023D925A275B50AC008A65DA /* Plus Minus.swift in Sources */,
