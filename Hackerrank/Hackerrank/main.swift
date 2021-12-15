@@ -51,3 +51,6 @@ print(birthday(s: [1,2,1,3,2], d: 3, m: 2))
 
 //문제 "Cats and a Mouse" 출력
 print(catAndMouse(x: 1, y: 3, z: 2))
+
+//문제 "Drawing Book" 출력
+print(pageCount(n: 5, p: 4))
