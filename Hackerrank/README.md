@@ -16,3 +16,4 @@
 * [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 * [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 * [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)
+* [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)

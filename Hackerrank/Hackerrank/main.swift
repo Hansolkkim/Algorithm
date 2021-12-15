@@ -54,3 +54,6 @@ print(catAndMouse(x: 1, y: 3, z: 2))
 
 //문제 "Drawing Book" 출력
 print(pageCount(n: 5, p: 4))
+
+//문제 "The Hurdle Race" 출력
+print(hurdleRace(k: 1, height: [1,2,2]))

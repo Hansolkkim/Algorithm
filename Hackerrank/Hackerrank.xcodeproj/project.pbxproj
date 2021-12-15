@@ -23,6 +23,7 @@
 		023D9260275B5398008A65DA /* Apple and Orange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D925F275B5398008A65DA /* Apple and Orange.swift */; };
 		0277F01127644809005329AB /* Migratory Birds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0277F01027644809005329AB /* Migratory Birds.swift */; };
 		02EB46C62769B793001FDEA1 /* Drawing Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB46C52769B793001FDEA1 /* Drawing Book.swift */; };
+		02EB47082769D51C001FDEA1 /* The Hurdle Race.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB47072769D51C001FDEA1 /* The Hurdle Race.swift */; };
 		02F5D47D2766DEB5008307C7 /* Subarray Division.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F5D47C2766DEB5008307C7 /* Subarray Division.swift */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,7 @@
 		023D925F275B5398008A65DA /* Apple and Orange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Apple and Orange.swift"; sourceTree = "<group>"; };
 		0277F01027644809005329AB /* Migratory Birds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Migratory Birds.swift"; sourceTree = "<group>"; };
 		02EB46C52769B793001FDEA1 /* Drawing Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Drawing Book.swift"; sourceTree = "<group>"; };
+		02EB47072769D51C001FDEA1 /* The Hurdle Race.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The Hurdle Race.swift"; sourceTree = "<group>"; };
 		02F5D47C2766DEB5008307C7 /* Subarray Division.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Subarray Division.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -108,6 +110,7 @@
 				02F5D47C2766DEB5008307C7 /* Subarray Division.swift */,
 				021A6FE5276863D500D64832 /* Cats and a Mouse.swift */,
 				02EB46C52769B793001FDEA1 /* Drawing Book.swift */,
+				02EB47072769D51C001FDEA1 /* The Hurdle Race.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				023D925C275B51B2008A65DA /* Mini-Max Sum.swift in Sources */,
 				023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */,
 				023D9242275B477D008A65DA /* main.swift in Sources */,
+				02EB47082769D51C001FDEA1 /* The Hurdle Race.swift in Sources */,
 				0277F01127644809005329AB /* Migratory Birds.swift in Sources */,
 				021A6FE6276863D500D64832 /* Cats and a Mouse.swift in Sources */,
 				023D9260275B5398008A65DA /* Apple and Orange.swift in Sources */,
