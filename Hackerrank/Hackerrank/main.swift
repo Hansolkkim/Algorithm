@@ -57,3 +57,6 @@ print(pageCount(n: 5, p: 4))
 
 //문제 "The Hurdle Race" 출력
 print(hurdleRace(k: 1, height: [1,2,2]))
+
+//문제 "Designer PDF Viewer" 출력
+print(designerPdfViewer(h: [1,3,1,3,1,4,1,3,2,5,5,5,5,1,1,5,5,1,5,2,5,5,5,5,5,5], word: "abc"))

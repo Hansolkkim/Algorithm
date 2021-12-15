@@ -24,6 +24,7 @@
 		0277F01127644809005329AB /* Migratory Birds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0277F01027644809005329AB /* Migratory Birds.swift */; };
 		02EB46C62769B793001FDEA1 /* Drawing Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB46C52769B793001FDEA1 /* Drawing Book.swift */; };
 		02EB47082769D51C001FDEA1 /* The Hurdle Race.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB47072769D51C001FDEA1 /* The Hurdle Race.swift */; };
+		02EB470C2769D7C0001FDEA1 /* Designer PDF Viewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB470B2769D7C0001FDEA1 /* Designer PDF Viewer.swift */; };
 		02F5D47D2766DEB5008307C7 /* Subarray Division.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F5D47C2766DEB5008307C7 /* Subarray Division.swift */; };
 /* End PBXBuildFile section */
 
@@ -59,6 +60,7 @@
 		0277F01027644809005329AB /* Migratory Birds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Migratory Birds.swift"; sourceTree = "<group>"; };
 		02EB46C52769B793001FDEA1 /* Drawing Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Drawing Book.swift"; sourceTree = "<group>"; };
 		02EB47072769D51C001FDEA1 /* The Hurdle Race.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The Hurdle Race.swift"; sourceTree = "<group>"; };
+		02EB470B2769D7C0001FDEA1 /* Designer PDF Viewer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Designer PDF Viewer.swift"; sourceTree = "<group>"; };
 		02F5D47C2766DEB5008307C7 /* Subarray Division.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Subarray Division.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -111,6 +113,7 @@
 				021A6FE5276863D500D64832 /* Cats and a Mouse.swift */,
 				02EB46C52769B793001FDEA1 /* Drawing Book.swift */,
 				02EB47072769D51C001FDEA1 /* The Hurdle Race.swift */,
+				02EB470B2769D7C0001FDEA1 /* Designer PDF Viewer.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				023D925E275B5278008A65DA /* Breaking the Records.swift in Sources */,
 				023D9256275B4E89008A65DA /* Birthday Cake Candles.swift in Sources */,
 				023D925C275B51B2008A65DA /* Mini-Max Sum.swift in Sources */,
+				02EB470C2769D7C0001FDEA1 /* Designer PDF Viewer.swift in Sources */,
 				023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */,
 				023D9242275B477D008A65DA /* main.swift in Sources */,
 				02EB47082769D51C001FDEA1 /* The Hurdle Race.swift in Sources */,
