@@ -15,3 +15,4 @@
 * [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 * [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 * [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+* [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
