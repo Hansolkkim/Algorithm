@@ -57,3 +57,6 @@ print(pickMiddleChar("abcd"))
 
 //문제 "로또의 최고 순위와 최저 순위" 출력
 print(highestAndLowestRankInLotto([44,1,0,0,31,25], [31,10,45,1,6,19]))
+
+//문제 "신규 아이디 추천" 출력
+print(recommendNewID("123_.def"))
