@@ -8,10 +8,8 @@
 import Foundation
 
 func recommendNewID(_ new_id: String) -> String {
-    let myCharacterSet: CharacterSet = CharacterSet.decimalDigits.union(CharacterSet.letters).union(CharacterSet(charactersIn: "-_."))
     var idConvertedByStep = new_id.lowercased() //1단계
-    idConvertedByStep = String(idConvertedByStep.unicodeScalars.filter(myCharacterSet.contains)) //2단계
-    idConvertedByStep = idConvertedByStep.filter({$0.isLetter || $0.isNumber || $0 == "-" || $0 == "_" || $0 == "."}) //3단계
+    idConvertedByStep = idConvertedByStep.filter({$0.isLetter || $0.isNumber || $0 == "-" || $0 == "_" || $0 == "."}) //2단계
     let DoubleDot = "([.])\\1"
     //3단계
     while idConvertedByStep.range(of: DoubleDot, options: .regularExpression) != nil{
@@ -39,4 +37,3 @@ func recommendNewID(_ new_id: String) -> String {
     }
     return idConvertedByStep
 }
-
