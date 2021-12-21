@@ -63,3 +63,6 @@ print(recommendNewID("123_.def"))
 
 //문제 "키패드 누르기" 출력
 print(pushKeyPad([1,2,3,4,5,6,7,8,9,0], "right"))
+
+//문제 "숫자 문자열과 영단어" 출력
+print(replaceEngToNum("one4seveneight"))
