@@ -19,3 +19,4 @@
 * [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 * [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
+* [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973?language=swift)
