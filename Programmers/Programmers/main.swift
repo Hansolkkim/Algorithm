@@ -69,3 +69,6 @@ print(replaceEngToNum("one4seveneight"))
 
 //문제 "짝지어 제거하기" 출력
 print(isRemovable("baabaa"))
+
+//문제 "튜플" 출력
+print(extractTuple("{{1,2,3},{2,1},{1,2,4,3},{2}}"))
