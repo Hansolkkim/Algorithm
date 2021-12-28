@@ -75,3 +75,6 @@ print(extractTuple("{{1,2,3},{2,1},{1,2,4,3},{2}}"))
 
 //문제 "프린터" 출력
 print(getPrintedOrder([2,4,8,2,9,3,3], 4))
+
+//문제 "괄호 변환" 출력
+print(converseParenthesis("()))((()"))
