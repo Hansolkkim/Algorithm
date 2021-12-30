@@ -30,3 +30,6 @@ nAndM1()
 
 //문제 2798번 출력
 extractApproximation()
+
+//문제 1436번 출력
+minimumNumberIncluding666()
