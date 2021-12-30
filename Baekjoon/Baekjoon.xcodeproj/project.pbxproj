@@ -15,6 +15,7 @@
 		023D920C275B39A0008A65DA /* p2920.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D920B275B39A0008A65DA /* p2920.swift */; };
 		023D920E275B3A62008A65DA /* p8958.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D920D275B3A61008A65DA /* p8958.swift */; };
 		023D9210275B3AD7008A65DA /* p11654.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D920F275B3AD7008A65DA /* p11654.swift */; };
+		02B8E541277D72B7004340EC /* p2798.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B8E540277D72B7004340EC /* p2798.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +41,7 @@
 		023D920B275B39A0008A65DA /* p2920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2920.swift; sourceTree = "<group>"; };
 		023D920D275B3A61008A65DA /* p8958.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p8958.swift; sourceTree = "<group>"; };
 		023D920F275B3AD7008A65DA /* p11654.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p11654.swift; sourceTree = "<group>"; };
+		02B8E540277D72B7004340EC /* p2798.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2798.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				023D920D275B3A61008A65DA /* p8958.swift */,
 				023D920F275B3AD7008A65DA /* p11654.swift */,
 				02373CFC276D74820026DE71 /* p15649.swift */,
+				02B8E540277D72B7004340EC /* p2798.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -113,7 +116,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1310;
-				LastUpgradeCheck = 1310;
+				LastUpgradeCheck = 1320;
 				TargetAttributes = {
 					023D91F6275B34F1008A65DA = {
 						CreatedOnToolsVersion = 13.1;
@@ -145,6 +148,7 @@
 			files = (
 				02373CFD276D74820026DE71 /* p15649.swift in Sources */,
 				023D920E275B3A62008A65DA /* p8958.swift in Sources */,
+				02B8E541277D72B7004340EC /* p2798.swift in Sources */,
 				023D91FB275B34F1008A65DA /* main.swift in Sources */,
 				023D9207275B3886008A65DA /* p1008.swift in Sources */,
 				023D9204275B35C7008A65DA /* p1000.swift in Sources */,
@@ -275,6 +279,7 @@
 		023D91FF275B34F1008A65DA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -284,6 +289,7 @@
 		023D9200275B34F1008A65DA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
