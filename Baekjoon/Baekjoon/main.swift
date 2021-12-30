@@ -33,3 +33,6 @@ extractApproximation()
 
 //문제 1436번 출력
 minimumNumberIncluding666()
+
+//문제 2750번 출력
+bubbleSort()
