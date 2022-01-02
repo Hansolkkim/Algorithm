@@ -78,3 +78,6 @@ print(getPrintedOrder([2,4,8,2,9,3,3], 4))
 
 //문제 "괄호 변환" 출력
 print(converseParenthesis("()))((()"))
+
+//문제 "소수 찾기" 출력
+print(findPrimeNum("1234"))

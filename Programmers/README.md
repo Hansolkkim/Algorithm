@@ -23,3 +23,4 @@
 * [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=swift)
 * [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=swift)
 * [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058?language=swift)
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
