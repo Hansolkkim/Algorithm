@@ -8,7 +8,7 @@
 import Foundation
 
 //문제 "Solve Me First" 출력
-solveMeFirst()
+//solveMeFirst()
 
 //문제 "Grading Students" 출력
 print(grading(grades: [73,67,38,33]))
@@ -60,3 +60,6 @@ print(hurdleRace(k: 1, height: [1,2,2]))
 
 //문제 "Designer PDF Viewer" 출력
 print(designerPdfViewer(h: [1,3,1,3,1,4,1,3,2,5,5,5,5,1,1,5,5,1,5,2,5,5,5,5,5,5], word: "abc"))
+
+//문제 "Picking Number" 출력
+print(pickNumbers(a: [4,6,5,3,3,1]))
