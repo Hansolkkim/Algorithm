@@ -63,3 +63,6 @@ print(designerPdfViewer(h: [1,3,1,3,1,4,1,3,2,5,5,5,5,1,1,5,5,1,5,2,5,5,5,5,5,5]
 
 //문제 "Picking Number" 출력
 print(pickNumbers(a: [4,6,5,3,3,1]))
+
+//문제 "Electronics Shop" 출력
+print(getMoneySpent(keyboards: [4], drives: [5], b: 5))

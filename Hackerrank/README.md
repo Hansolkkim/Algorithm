@@ -19,3 +19,4 @@
 * [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)
 * [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign&h_r=next-challenge&h_v=zen)
 * [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)
+* [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
