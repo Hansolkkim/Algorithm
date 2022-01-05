@@ -39,3 +39,6 @@ bubbleSort()
 
 //문제 1009번 출력
 printFirstDigitOfSquare()
+
+//문제 1076번 출력
+printR()
