@@ -14,7 +14,7 @@
 - [x] [수 정렬하기](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p2750.swift)
 - [x] [분산처리](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1009.swift)
 - [x] [저항](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1076.swift)
-- [x] [물병]()
+- [x] [물병](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1052.swift)
 - [ ] [큰수 A+B]()
 
 
