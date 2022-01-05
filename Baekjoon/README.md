@@ -10,3 +10,4 @@
 * [블랙잭](https://www.acmicpc.net/problem/2798)
 * [영화감독 숌](https://www.acmicpc.net/problem/1436)
 * [수 정렬하기](https://www.acmicpc.net/problem/2750)
+* [분산처리](https://www.acmicpc.net/problem/1009)

@@ -36,3 +36,6 @@ minimumNumberIncluding666()
 
 //문제 2750번 출력
 bubbleSort()
+
+//문제 1009번 출력
+printFirstDigitOfSquare()
