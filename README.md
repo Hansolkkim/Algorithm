@@ -13,7 +13,7 @@
 - [x] [영화감독 숌](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1436.swift)
 - [x] [수 정렬하기](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p2750.swift)
 - [x] [분산처리](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1009.swift)
-- [x] [저항]()
+- [x] [저항](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1076.swift)
 
 
 
