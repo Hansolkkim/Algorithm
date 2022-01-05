@@ -8,7 +8,7 @@
 import Foundation
 
 func getMinBottleTobuy() {
-    func dec2bin(_ dec: Int) -> [Int] {
+    func dec2bin(_ dec: Int) -> [Int] { //리틀엔디안 방식으로 2진수를 만들어주는 내부 함수
         var dec = dec
         var convertedArray = [Int]()
         while dec != 0 {
@@ -20,20 +20,20 @@ func getMinBottleTobuy() {
     let input = readLine()!.components(separatedBy: .whitespacesAndNewlines).map{Int($0)!}
     var n = input[0]
     let k = input[1]
-    var count1 = 0
-    var numberOfBoughtBottle = 0
+    var count1 = 0 //2진수의 1의 개수 count하는 변수
+    var numberOfBottleToBuy = 0
     dec2bin(n).forEach{
         count1 += $0 == 1 ? 1 : 0
     }
     while count1 > k {
-        let plus = NSDecimalNumber(decimal: pow(2, dec2bin(n).firstIndex(of: 1)!)).intValue
-        n += plus
-        numberOfBoughtBottle += plus
+        let minNumberOfBottleToChangeBin = NSDecimalNumber(decimal: pow(2, dec2bin(n).firstIndex(of: 1)!)).intValue
+        n += minNumberOfBottleToChangeBin
+        numberOfBottleToBuy += minNumberOfBottleToChangeBin
         count1 = 0
         dec2bin(n).forEach{
             count1 += $0 == 1 ? 1 : 0
         }
     }
-    print(numberOfBoughtBottle)
+    print(numberOfBottleToBuy)
 }
 
