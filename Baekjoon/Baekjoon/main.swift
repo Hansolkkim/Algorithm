@@ -48,3 +48,4 @@ getMinBottleTobuy()
 
 //문제 10757번 출력
 largeNumbersSum()
+largeNumberSum2()

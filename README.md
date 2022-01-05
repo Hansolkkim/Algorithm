@@ -15,7 +15,7 @@
 - [x] [분산처리](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1009.swift)
 - [x] [저항](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1076.swift)
 - [x] [물병](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1052.swift)
-- [ ] [큰수 A+B]()
+- [x] [큰수 A+B](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p10757.swift)
 
 
 
