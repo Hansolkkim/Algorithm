@@ -45,3 +45,6 @@ printR()
 
 //문제 1052번 출력
 getMinBottleTobuy()
+
+//문제 10757번 출력
+largeNumbersSum()
