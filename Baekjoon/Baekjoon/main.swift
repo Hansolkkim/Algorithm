@@ -42,3 +42,6 @@ printFirstDigitOfSquare()
 
 //문제 1076번 출력
 printR()
+
+//문제 1052번 출력
+getMinBottleTobuy()
