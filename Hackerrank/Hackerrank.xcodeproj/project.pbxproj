@@ -11,6 +11,7 @@
 		0223CD212784707200C89A03 /* Picking Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0223CD202784707200C89A03 /* Picking Numbers.swift */; };
 		0223CD2327847ACC00C89A03 /* Electronics Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0223CD2227847ACC00C89A03 /* Electronics Shop.swift */; };
 		023640D0278821CA00F19FF4 /* Climbing the Leaderboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023640CF278821CA00F19FF4 /* Climbing the Leaderboard.swift */; };
+		023640D22788302800F19FF4 /* Beautiful Days at the Movies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023640D12788302800F19FF4 /* Beautiful Days at the Movies.swift */; };
 		023D9242275B477D008A65DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9241275B477D008A65DA /* main.swift */; };
 		023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9248275B47FD008A65DA /* Solve Me First.swift */; };
 		023D924C275B4955008A65DA /* Grading Students.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D924B275B4955008A65DA /* Grading Students.swift */; };
@@ -48,6 +49,7 @@
 		0223CD202784707200C89A03 /* Picking Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Picking Numbers.swift"; sourceTree = "<group>"; };
 		0223CD2227847ACC00C89A03 /* Electronics Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Electronics Shop.swift"; sourceTree = "<group>"; };
 		023640CF278821CA00F19FF4 /* Climbing the Leaderboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Climbing the Leaderboard.swift"; sourceTree = "<group>"; };
+		023640D12788302800F19FF4 /* Beautiful Days at the Movies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Beautiful Days at the Movies.swift"; sourceTree = "<group>"; };
 		023D923E275B477D008A65DA /* Hackerrank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Hackerrank; sourceTree = BUILT_PRODUCTS_DIR; };
 		023D9241275B477D008A65DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		023D9248275B47FD008A65DA /* Solve Me First.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Solve Me First.swift"; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				0223CD202784707200C89A03 /* Picking Numbers.swift */,
 				0223CD2227847ACC00C89A03 /* Electronics Shop.swift */,
 				023640CF278821CA00F19FF4 /* Climbing the Leaderboard.swift */,
+				023640D12788302800F19FF4 /* Beautiful Days at the Movies.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				021A6FE6276863D500D64832 /* Cats and a Mouse.swift in Sources */,
 				023D9260275B5398008A65DA /* Apple and Orange.swift in Sources */,
 				023D9258275B4F69008A65DA /* Diagonal Difference.swift in Sources */,
+				023640D22788302800F19FF4 /* Beautiful Days at the Movies.swift in Sources */,
 				023D925A275B50AC008A65DA /* Plus Minus.swift in Sources */,
 				02EB46C62769B793001FDEA1 /* Drawing Book.swift in Sources */,
 				02F5D47D2766DEB5008307C7 /* Subarray Division.swift in Sources */,

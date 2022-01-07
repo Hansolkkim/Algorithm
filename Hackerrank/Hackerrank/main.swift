@@ -69,3 +69,6 @@ print(getMoneySpent(keyboards: [4], drives: [5], b: 5))
 
 //문제 "Climbing the Leaderboard" 출력
 print(getRank(ranked: [100,100,50,40,40,20,10], player: [5,25,50,120]))
+
+//문제 "Beautiful Days at the Movies" 출력
+print(beautifulDays(i: 1, j: 2000000, k: 1000000000))
