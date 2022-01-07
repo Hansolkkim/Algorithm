@@ -66,3 +66,6 @@ print(pickNumbers(a: [4,6,5,3,3,1]))
 
 //문제 "Electronics Shop" 출력
 print(getMoneySpent(keyboards: [4], drives: [5], b: 5))
+
+//문제 "Climbing the Leaderboard" 출력
+print(getRank(ranked: [100,100,50,40,40,20,10], player: [5,25,50,120]))

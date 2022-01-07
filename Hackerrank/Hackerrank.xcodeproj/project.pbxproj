@@ -10,6 +10,7 @@
 		021A6FE6276863D500D64832 /* Cats and a Mouse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021A6FE5276863D500D64832 /* Cats and a Mouse.swift */; };
 		0223CD212784707200C89A03 /* Picking Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0223CD202784707200C89A03 /* Picking Numbers.swift */; };
 		0223CD2327847ACC00C89A03 /* Electronics Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0223CD2227847ACC00C89A03 /* Electronics Shop.swift */; };
+		023640D0278821CA00F19FF4 /* Climbing the Leaderboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023640CF278821CA00F19FF4 /* Climbing the Leaderboard.swift */; };
 		023D9242275B477D008A65DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9241275B477D008A65DA /* main.swift */; };
 		023D9249275B47FD008A65DA /* Solve Me First.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9248275B47FD008A65DA /* Solve Me First.swift */; };
 		023D924C275B4955008A65DA /* Grading Students.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D924B275B4955008A65DA /* Grading Students.swift */; };
@@ -46,6 +47,7 @@
 		021A6FE5276863D500D64832 /* Cats and a Mouse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Cats and a Mouse.swift"; sourceTree = "<group>"; };
 		0223CD202784707200C89A03 /* Picking Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Picking Numbers.swift"; sourceTree = "<group>"; };
 		0223CD2227847ACC00C89A03 /* Electronics Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Electronics Shop.swift"; sourceTree = "<group>"; };
+		023640CF278821CA00F19FF4 /* Climbing the Leaderboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Climbing the Leaderboard.swift"; sourceTree = "<group>"; };
 		023D923E275B477D008A65DA /* Hackerrank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Hackerrank; sourceTree = BUILT_PRODUCTS_DIR; };
 		023D9241275B477D008A65DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		023D9248275B47FD008A65DA /* Solve Me First.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Solve Me First.swift"; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				02EB470B2769D7C0001FDEA1 /* Designer PDF Viewer.swift */,
 				0223CD202784707200C89A03 /* Picking Numbers.swift */,
 				0223CD2227847ACC00C89A03 /* Electronics Shop.swift */,
+				023640CF278821CA00F19FF4 /* Climbing the Leaderboard.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 			files = (
 				023D9254275B4DEA008A65DA /* Number Line Jumps.swift in Sources */,
 				023D924E275B4A7D008A65DA /* Compare the Triplets.swift in Sources */,
+				023640D0278821CA00F19FF4 /* Climbing the Leaderboard.swift in Sources */,
 				0223CD2327847ACC00C89A03 /* Electronics Shop.swift in Sources */,
 				023D9252275B4C70008A65DA /* Time Conversion.swift in Sources */,
 				023D925E275B5278008A65DA /* Breaking the Records.swift in Sources */,
