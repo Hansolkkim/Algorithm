@@ -78,3 +78,5 @@
 - [x] [Designer PDF Viewer](https://github.com/Hansolkkim/Algorithm/blob/main/Hackerrank/Hackerrank/Designer%20PDF%20Viewer.swift)
 - [x] [Picking Numbers](https://github.com/Hansolkkim/Algorithm/blob/main/Hackerrank/Hackerrank/Picking%20Numbers.swift)
 - [x] [Electronics Shop](https://github.com/Hansolkkim/Algorithm/blob/main/Hackerrank/Hackerrank/Electronics%20Shop.swift)
+- [ ] [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
+- [x] [Beutiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
