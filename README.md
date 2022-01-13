@@ -91,9 +91,9 @@
 
 ## LeetCode 해결한 알고리즘
 
-- [ ] [Two Sum](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Two%20Sum.swift)
-- [ ] [Reverse Integer](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Reverse%20Integer.swift)
-- [ ] [Remove Duplicates from Sorted List](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Remove%20Duplicates%20from%20Sorted%20List.swift)
-- [ ] [Palindrome Number](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Palindrome%20Number.swift)
-- [ ] [Longest Common Prefix](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Longest%20Common%20Prefix.swift)
-- [ ] [Linked List Cycle](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Linked%20List%20Cycle.swift)
+- [x] [Two Sum](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Two%20Sum.swift)
+- [x] [Reverse Integer](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Reverse%20Integer.swift)
+- [x] [Remove Duplicates from Sorted List](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Remove%20Duplicates%20from%20Sorted%20List.swift)
+- [x] [Palindrome Number](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Palindrome%20Number.swift)
+- [x] [Longest Common Prefix](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Longest%20Common%20Prefix.swift)
+- [x] [Linked List Cycle](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Linked%20List%20Cycle.swift)
