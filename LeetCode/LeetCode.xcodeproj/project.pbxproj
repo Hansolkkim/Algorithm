@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		02BC7063278E606A002C4C1F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC7062278E606A002C4C1F /* main.swift */; };
+		02BC709A278FAE8B002C4C1F /* Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC7094278FAE8B002C4C1F /* Reverse Integer.swift */; };
+		02BC709B278FAE8B002C4C1F /* Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC7095278FAE8B002C4C1F /* Remove Duplicates from Sorted List.swift */; };
+		02BC709C278FAE8B002C4C1F /* Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC7096278FAE8B002C4C1F /* Palindrome Number.swift */; };
+		02BC709D278FAE8B002C4C1F /* Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC7097278FAE8B002C4C1F /* Two Sum.swift */; };
+		02BC709E278FAE8B002C4C1F /* Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC7098278FAE8B002C4C1F /* Longest Common Prefix.swift */; };
+		02BC709F278FAE8B002C4C1F /* Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC7099278FAE8B002C4C1F /* Linked List Cycle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +31,12 @@
 /* Begin PBXFileReference section */
 		02BC705F278E606A002C4C1F /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BC7062278E606A002C4C1F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		02BC7094278FAE8B002C4C1F /* Reverse Integer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Reverse Integer.swift"; sourceTree = "<group>"; };
+		02BC7095278FAE8B002C4C1F /* Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
+		02BC7096278FAE8B002C4C1F /* Palindrome Number.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Palindrome Number.swift"; sourceTree = "<group>"; };
+		02BC7097278FAE8B002C4C1F /* Two Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Two Sum.swift"; sourceTree = "<group>"; };
+		02BC7098278FAE8B002C4C1F /* Longest Common Prefix.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Longest Common Prefix.swift"; sourceTree = "<group>"; };
+		02BC7099278FAE8B002C4C1F /* Linked List Cycle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Linked List Cycle.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,12 @@
 			isa = PBXGroup;
 			children = (
 				02BC7062278E606A002C4C1F /* main.swift */,
+				02BC7097278FAE8B002C4C1F /* Two Sum.swift */,
+				02BC7094278FAE8B002C4C1F /* Reverse Integer.swift */,
+				02BC7095278FAE8B002C4C1F /* Remove Duplicates from Sorted List.swift */,
+				02BC7096278FAE8B002C4C1F /* Palindrome Number.swift */,
+				02BC7098278FAE8B002C4C1F /* Longest Common Prefix.swift */,
+				02BC7099278FAE8B002C4C1F /* Linked List Cycle.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -120,7 +138,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02BC709D278FAE8B002C4C1F /* Two Sum.swift in Sources */,
+				02BC709A278FAE8B002C4C1F /* Reverse Integer.swift in Sources */,
+				02BC709B278FAE8B002C4C1F /* Remove Duplicates from Sorted List.swift in Sources */,
+				02BC709C278FAE8B002C4C1F /* Palindrome Number.swift in Sources */,
 				02BC7063278E606A002C4C1F /* main.swift in Sources */,
+				02BC709F278FAE8B002C4C1F /* Linked List Cycle.swift in Sources */,
+				02BC709E278FAE8B002C4C1F /* Longest Common Prefix.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
