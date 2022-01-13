@@ -80,3 +80,20 @@
 - [x] [Electronics Shop](https://github.com/Hansolkkim/Algorithm/blob/main/Hackerrank/Hackerrank/Electronics%20Shop.swift)
 - [ ] [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
 - [x] [Beutiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
+
+
+
+
+
+
+
+---
+
+## LeetCode 해결한 알고리즘
+
+- [ ] [Two Sum](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Two%20Sum.swift)
+- [ ] [Reverse Integer](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Reverse%20Integer.swift)
+- [ ] [Remove Duplicates from Sorted List](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Remove%20Duplicates%20from%20Sorted%20List.swift)
+- [ ] [Palindrome Number](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Palindrome%20Number.swift)
+- [ ] [Longest Common Prefix](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Longest%20Common%20Prefix.swift)
+- [ ] [Linked List Cycle](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Linked%20List%20Cycle.swift)
