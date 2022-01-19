@@ -98,4 +98,5 @@
 - [x] [Palindrome Number](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Palindrome%20Number.swift)
 - [x] [Longest Common Prefix](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Longest%20Common%20Prefix.swift)
 - [x] [Linked List Cycle](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Linked%20List%20Cycle.swift)
-- [ ] [Remove Element](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Remove%20Element.swift)
+- [x] [Remove Element](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Remove%20Element.swift)
+- [x] [Container With Most Water](https://github.com/Hansolkkim/Algorithm/blob/main/LeetCode/LeetCode/Container%20With%20Most%20Water.swift)
