@@ -28,3 +28,6 @@ let myListNode3 = ListNode(val: 2)
 let myListNode2 = ListNode(val: 1, next: myListNode3)
 myListNode3.next = myListNode2
 print(hasCycle(myListNode2))
+
+//문제 "Remove Element" 출력
+print(removeElement([3,2,2,3], 3))

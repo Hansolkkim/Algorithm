@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02A575812797E01800871FB4 /* Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A575802797E01800871FB4 /* Remove Element.swift */; };
 		02BC7063278E606A002C4C1F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC7062278E606A002C4C1F /* main.swift */; };
 		02BC709A278FAE8B002C4C1F /* Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC7094278FAE8B002C4C1F /* Reverse Integer.swift */; };
 		02BC709B278FAE8B002C4C1F /* Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BC7095278FAE8B002C4C1F /* Remove Duplicates from Sorted List.swift */; };
@@ -29,6 +30,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		02A575802797E01800871FB4 /* Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove Element.swift"; sourceTree = "<group>"; };
 		02BC705F278E606A002C4C1F /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BC7062278E606A002C4C1F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02BC7094278FAE8B002C4C1F /* Reverse Integer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Reverse Integer.swift"; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				02BC7096278FAE8B002C4C1F /* Palindrome Number.swift */,
 				02BC7098278FAE8B002C4C1F /* Longest Common Prefix.swift */,
 				02BC7099278FAE8B002C4C1F /* Linked List Cycle.swift */,
+				02A575802797E01800871FB4 /* Remove Element.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				02BC7063278E606A002C4C1F /* main.swift in Sources */,
 				02BC709F278FAE8B002C4C1F /* Linked List Cycle.swift in Sources */,
 				02BC709E278FAE8B002C4C1F /* Longest Common Prefix.swift in Sources */,
+				02A575812797E01800871FB4 /* Remove Element.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
