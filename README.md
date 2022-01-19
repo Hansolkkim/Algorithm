@@ -49,6 +49,7 @@
 - [x] [프린터](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/프린터.swift)
 - [x] [괄호 변환](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/괄호%20변환.swift)
 - [x] [소수 찾기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/소수%20찾기.swift)
+- [x] [이상한 문자 만들기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/이상한%20문자%20만들기.swift)
 
 
 
