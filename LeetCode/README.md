@@ -13,3 +13,5 @@
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+- [Remove Element](https://leetcode.com/problems/remove-element/)

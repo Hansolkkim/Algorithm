@@ -31,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		02A575802797E01800871FB4 /* Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Remove Element.swift"; sourceTree = "<group>"; };
+		02A575822797E1A400871FB4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		02BC705F278E606A002C4C1F /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BC7062278E606A002C4C1F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02BC7094278FAE8B002C4C1F /* Reverse Integer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Reverse Integer.swift"; sourceTree = "<group>"; };
@@ -55,6 +56,7 @@
 		02BC7056278E606A002C4C1F = {
 			isa = PBXGroup;
 			children = (
+				02A575822797E1A400871FB4 /* README.md */,
 				02BC7061278E606A002C4C1F /* LeetCode */,
 				02BC7060278E606A002C4C1F /* Products */,
 			);
