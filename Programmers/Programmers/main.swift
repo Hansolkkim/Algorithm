@@ -81,3 +81,6 @@ print(converseParenthesis("()))((()"))
 
 //문제 "소수 찾기" 출력
 print(findPrimeNum("1234"))
+
+//문제 "이상한 이름 만들기" 출력
+print(makeOddString("try hello world"))
