@@ -8,12 +8,14 @@
 import Foundation
 
 func diagonalDifference(arr: [[Int]]) -> Int {
-    var LTR = 0, RTL = 0
-    for i in 0..<arr[0].count {
-        for j in 0..<arr[0].count {
-            if i == j { LTR += arr[i][j] }
-            if i + j + 1 == arr[0].count { RTL += arr[i][j] }
-        }
-    }
+    let LTR = (0..<arr[0].count).map { row in
+        let column = row
+        return arr[row][column]
+    }.reduce(0,+)
+    let RTL = (0..<arr[0].count).map { row in
+        let column = arr[0].count-row-1
+        return arr[row][column]
+    }.reduce(0,+)
+
     return abs(LTR - RTL)
 }

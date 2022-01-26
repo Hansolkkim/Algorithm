@@ -8,21 +8,18 @@
 import Foundation
 
 func timeConversion(s: String) -> String{
-    let myCharacterSet: CharacterSet = CharacterSet(charactersIn: ":AMPM")
-    let seperatedArr = s.components(separatedBy: myCharacterSet)
-    switch s.contains("AM") {
+    let hour = Int(s.prefix(2))!
+    var wholeTime = String(s.dropLast(2))
+    
+    switch s.hasSuffix("PM") {
     case true:
-        if seperatedArr[0] == "12" {
-            return "00:\(seperatedArr[1]):\(seperatedArr[2])"
-        } else {
-            return "\(seperatedArr[0]):\(seperatedArr[1]):\(seperatedArr[2])"
+        if hour != 12 {
+            wholeTime = "\(hour+12)" + wholeTime.dropFirst(2)
         }
     case false:
-        if seperatedArr[0] == "12" {
-            return "\(seperatedArr[0]):\(seperatedArr[1]):\(seperatedArr[2])"
-        } else {
-            let converted = String(Int(seperatedArr[0])! + 12)
-            return "\(converted):\(seperatedArr[1]):\(seperatedArr[2])"
+        if hour == 12 {
+            wholeTime = "00" + wholeTime.dropFirst(2)
         }
     }
+    return wholeTime
 }

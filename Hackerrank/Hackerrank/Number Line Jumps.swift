@@ -8,7 +8,5 @@
 import Foundation
 
 func kangaroo(x1: Int, v1: Int, x2: Int, v2: Int) -> String {
-    if v1 > v2 {
-        return (x2 - x1) % (v1 - v2) == 0 ? "YES" : "NO"
-    } else { return "NO" }
+    return v1 > v2 ? (x2 - x1) % (v1 - v1) == 0 ? "YES" : "NO" : "NO"
 }
