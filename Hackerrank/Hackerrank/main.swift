@@ -72,3 +72,6 @@ print(getRank(ranked: [100,100,50,40,40,20,10], player: [5,25,50,120]))
 
 //문제 "Beautiful Days at the Movies" 출력
 print(beautifulDays(i: 1, j: 2000000, k: 1000000000))
+
+//문제 "Save the Prisoner" 출력
+print(saveThePrisoner(n: 3, m: 7, s: 3))

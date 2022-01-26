@@ -22,3 +22,4 @@
 * [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
 * [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
 * [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
+* [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)

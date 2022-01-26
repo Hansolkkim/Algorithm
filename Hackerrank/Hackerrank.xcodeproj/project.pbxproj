@@ -26,6 +26,7 @@
 		023D925E275B5278008A65DA /* Breaking the Records.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D925D275B5278008A65DA /* Breaking the Records.swift */; };
 		023D9260275B5398008A65DA /* Apple and Orange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D925F275B5398008A65DA /* Apple and Orange.swift */; };
 		0277F01127644809005329AB /* Migratory Birds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0277F01027644809005329AB /* Migratory Birds.swift */; };
+		02E0A36C27A142FD001AFBF1 /* Save the Prisoner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E0A36B27A142FD001AFBF1 /* Save the Prisoner.swift */; };
 		02EB46C62769B793001FDEA1 /* Drawing Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB46C52769B793001FDEA1 /* Drawing Book.swift */; };
 		02EB47082769D51C001FDEA1 /* The Hurdle Race.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB47072769D51C001FDEA1 /* The Hurdle Race.swift */; };
 		02EB470C2769D7C0001FDEA1 /* Designer PDF Viewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB470B2769D7C0001FDEA1 /* Designer PDF Viewer.swift */; };
@@ -66,6 +67,7 @@
 		023D925D275B5278008A65DA /* Breaking the Records.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Breaking the Records.swift"; sourceTree = "<group>"; };
 		023D925F275B5398008A65DA /* Apple and Orange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Apple and Orange.swift"; sourceTree = "<group>"; };
 		0277F01027644809005329AB /* Migratory Birds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Migratory Birds.swift"; sourceTree = "<group>"; };
+		02E0A36B27A142FD001AFBF1 /* Save the Prisoner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Save the Prisoner.swift"; sourceTree = "<group>"; };
 		02EB46C52769B793001FDEA1 /* Drawing Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Drawing Book.swift"; sourceTree = "<group>"; };
 		02EB47072769D51C001FDEA1 /* The Hurdle Race.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The Hurdle Race.swift"; sourceTree = "<group>"; };
 		02EB470B2769D7C0001FDEA1 /* Designer PDF Viewer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Designer PDF Viewer.swift"; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 				0223CD2227847ACC00C89A03 /* Electronics Shop.swift */,
 				023640CF278821CA00F19FF4 /* Climbing the Leaderboard.swift */,
 				023640D12788302800F19FF4 /* Beautiful Days at the Movies.swift */,
+				02E0A36B27A142FD001AFBF1 /* Save the Prisoner.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				023D924E275B4A7D008A65DA /* Compare the Triplets.swift in Sources */,
 				023640D0278821CA00F19FF4 /* Climbing the Leaderboard.swift in Sources */,
 				0223CD2327847ACC00C89A03 /* Electronics Shop.swift in Sources */,
+				02E0A36C27A142FD001AFBF1 /* Save the Prisoner.swift in Sources */,
 				023D9252275B4C70008A65DA /* Time Conversion.swift in Sources */,
 				023D925E275B5278008A65DA /* Breaking the Records.swift in Sources */,
 				023D9256275B4E89008A65DA /* Birthday Cake Candles.swift in Sources */,
