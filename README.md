@@ -16,6 +16,8 @@
 - [x] [저항](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1076.swift)
 - [x] [물병](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p1052.swift)
 - [x] [큰수 A+B](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p10757.swift)
+- [x] [스택](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p10828.swift)
+- [x] [괄호](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p9012.swift)
 
 
 
