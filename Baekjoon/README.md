@@ -14,3 +14,4 @@
 * [저항](https://www.acmicpc.net/problem/1076)
 * [물병](https://www.acmicpc.net/problem/1052)
 * [큰 수 A+B](https://www.acmicpc.net/problem/10757)
+* [스택](https://www.acmicpc.net/problem/10828)
