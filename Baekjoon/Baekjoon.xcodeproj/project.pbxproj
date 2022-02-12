@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		02373CFD276D74820026DE71 /* p15649.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02373CFC276D74820026DE71 /* p15649.swift */; };
+		023A984827B806FB00117DA2 /* p10828.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023A984727B806FB00117DA2 /* p10828.swift */; };
 		023D91FB275B34F1008A65DA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D91FA275B34F1008A65DA /* main.swift */; };
 		023D9204275B35C7008A65DA /* p1000.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9203275B35C7008A65DA /* p1000.swift */; };
 		023D9207275B3886008A65DA /* p1008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023D9206275B3886008A65DA /* p1008.swift */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		02373CFC276D74820026DE71 /* p15649.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p15649.swift; sourceTree = "<group>"; };
+		023A984727B806FB00117DA2 /* p10828.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p10828.swift; sourceTree = "<group>"; };
 		023D91F7275B34F1008A65DA /* Baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		023D91FA275B34F1008A65DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		023D9203275B35C7008A65DA /* p1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1000.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				02615D9C2785375A00B21B44 /* p1052.swift */,
 				02615DA02785647F00B21B44 /* p10757.swift */,
 				02615DA227856F0500B21B44 /* p10757-2.swift */,
+				023A984727B806FB00117DA2 /* p10828.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				023D9210275B3AD7008A65DA /* p11654.swift in Sources */,
 				02615D9D2785375A00B21B44 /* p1052.swift in Sources */,
 				02615DA327856F0500B21B44 /* p10757-2.swift in Sources */,
+				023A984827B806FB00117DA2 /* p10828.swift in Sources */,
 				023D920C275B39A0008A65DA /* p2920.swift in Sources */,
 				027D876D277DA35500E1F53C /* p2750.swift in Sources */,
 				02615D9B27852F5400B21B44 /* p1076.swift in Sources */,
