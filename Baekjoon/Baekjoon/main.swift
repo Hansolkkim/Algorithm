@@ -55,3 +55,6 @@ mysolutionOf10828()
 
 //문제 9012번 출력
 mySolutionOf9012()
+
+//문제 10773번 출력
+mySolutionOf10773()

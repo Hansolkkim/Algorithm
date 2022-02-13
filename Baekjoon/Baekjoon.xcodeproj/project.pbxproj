@@ -24,6 +24,7 @@
 		02615DA327856F0500B21B44 /* p10757-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02615DA227856F0500B21B44 /* p10757-2.swift */; };
 		027D876B277D99D600E1F53C /* p1436.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027D876A277D99D600E1F53C /* p1436.swift */; };
 		027D876D277DA35500E1F53C /* p2750.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027D876C277DA35500E1F53C /* p2750.swift */; };
+		0283F7B127B95222006646D3 /* p10773.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0283F7B027B95222006646D3 /* p10773.swift */; };
 		02B8E541277D72B7004340EC /* p2798.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B8E540277D72B7004340EC /* p2798.swift */; };
 /* End PBXBuildFile section */
 
@@ -59,6 +60,7 @@
 		02615DA227856F0500B21B44 /* p10757-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "p10757-2.swift"; sourceTree = "<group>"; };
 		027D876A277D99D600E1F53C /* p1436.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1436.swift; sourceTree = "<group>"; };
 		027D876C277DA35500E1F53C /* p2750.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2750.swift; sourceTree = "<group>"; };
+		0283F7B027B95222006646D3 /* p10773.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p10773.swift; sourceTree = "<group>"; };
 		02B8E540277D72B7004340EC /* p2798.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2798.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -111,6 +113,7 @@
 				02615DA227856F0500B21B44 /* p10757-2.swift */,
 				023A984727B806FB00117DA2 /* p10828.swift */,
 				023A984927B807C100117DA2 /* p9012.swift */,
+				0283F7B027B95222006646D3 /* p10773.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				027D876D277DA35500E1F53C /* p2750.swift in Sources */,
 				023A984A27B807C100117DA2 /* p9012.swift in Sources */,
 				02615D9B27852F5400B21B44 /* p1076.swift in Sources */,
+				0283F7B127B95222006646D3 /* p10773.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
