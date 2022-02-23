@@ -17,3 +17,6 @@
 * [스택](https://www.acmicpc.net/problem/10828)
 * [괄호](https://www.acmicpc.net/problem/9012)
 * [제로](https://www.acmicpc.net/problem/10773)
+* [큐](https://www.acmicpc.net/problem/10845)
+* [프린터큐](https://www.acmicpc.net/problem/1966)
+* [앵무새](https://www.acmicpc.net/problem/14713)

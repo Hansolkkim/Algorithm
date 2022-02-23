@@ -19,6 +19,9 @@
 - [x] [스택](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p10828.swift)
 - [x] [괄호](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p9012.swift)
 - [x] [스택](https://github.com/Hansolkkim/Algorithm/blob/main/Baekjoon/Baekjoon/p10773.swift)
+- [x] [큐](./Algorithm/Baekjoon/Baekjoon/p10845.swift)
+- [x] [프린터 큐](./Algorithm/Baekjoon/Baekjoon/p1966.swift)
+- [x] [앵무새](./Algorithm/Baekjoon/Baekjoon/p14713.swift)
 
 
 
