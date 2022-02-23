@@ -58,3 +58,7 @@ mySolutionOf9012()
 
 //문제 10773번 출력
 mySolutionOf10773()
+
+//문제 10845번 출력
+mySolutionOf10845()
+
