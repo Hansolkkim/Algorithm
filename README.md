@@ -22,6 +22,7 @@
 - [x] [큐](./Algorithm/Baekjoon/Baekjoon/p10845.swift)
 - [x] [프린터 큐](./Algorithm/Baekjoon/Baekjoon/p1966.swift)
 - [x] [앵무새](./Algorithm/Baekjoon/Baekjoon/p14713.swift)
+- [x] [덱](./Algorithm/Baekjoon/Baekjoon/p10866.swift)
 
 
 
