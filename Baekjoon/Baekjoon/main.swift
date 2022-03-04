@@ -67,3 +67,6 @@ mySolutionOf1966()
 
 //문제 14713번 출력
 mySolutionOf14713()
+
+//문제 10866번 출력
+mySolutionOf10866()

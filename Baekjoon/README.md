@@ -20,3 +20,4 @@
 * [큐](https://www.acmicpc.net/problem/10845)
 * [프린터큐](https://www.acmicpc.net/problem/1966)
 * [앵무새](https://www.acmicpc.net/problem/14713)
+* [덱](https://www.acmicpc.net/problem/10866)

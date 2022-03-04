@@ -26,6 +26,7 @@
 		027D876D277DA35500E1F53C /* p2750.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027D876C277DA35500E1F53C /* p2750.swift */; };
 		0283F7B127B95222006646D3 /* p10773.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0283F7B027B95222006646D3 /* p10773.swift */; };
 		02B8E541277D72B7004340EC /* p2798.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B8E540277D72B7004340EC /* p2798.swift */; };
+		02D099CD27C8B342000979C5 /* p10866.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D099CC27C8B342000979C5 /* p10866.swift */; };
 		02F94C5027C68D350006396E /* p10845.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F94C4F27C68D350006396E /* p10845.swift */; };
 		02F94C5227C68D6F0006396E /* p1966.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F94C5127C68D6F0006396E /* p1966.swift */; };
 		02F94C5427C68DB60006396E /* p14713.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F94C5327C68DB60006396E /* p14713.swift */; };
@@ -65,6 +66,7 @@
 		027D876C277DA35500E1F53C /* p2750.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2750.swift; sourceTree = "<group>"; };
 		0283F7B027B95222006646D3 /* p10773.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p10773.swift; sourceTree = "<group>"; };
 		02B8E540277D72B7004340EC /* p2798.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2798.swift; sourceTree = "<group>"; };
+		02D099CC27C8B342000979C5 /* p10866.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p10866.swift; sourceTree = "<group>"; };
 		02F94C4F27C68D350006396E /* p10845.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = p10845.swift; sourceTree = "<group>"; };
 		02F94C5127C68D6F0006396E /* p1966.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p1966.swift; sourceTree = "<group>"; };
 		02F94C5327C68DB60006396E /* p14713.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p14713.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				02F94C4F27C68D350006396E /* p10845.swift */,
 				02F94C5127C68D6F0006396E /* p1966.swift */,
 				02F94C5327C68DB60006396E /* p14713.swift */,
+				02D099CC27C8B342000979C5 /* p10866.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				02615DA12785647F00B21B44 /* p10757.swift in Sources */,
 				02373CFD276D74820026DE71 /* p15649.swift in Sources */,
 				023D920E275B3A62008A65DA /* p8958.swift in Sources */,
+				02D099CD27C8B342000979C5 /* p10866.swift in Sources */,
 				02B8E541277D72B7004340EC /* p2798.swift in Sources */,
 				02F94C5027C68D350006396E /* p10845.swift in Sources */,
 				02615D992785269600B21B44 /* p1009.swift in Sources */,
