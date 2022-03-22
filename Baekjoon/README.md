@@ -21,3 +21,8 @@
 * [프린터큐](https://www.acmicpc.net/problem/1966)
 * [앵무새](https://www.acmicpc.net/problem/14713)
 * [덱](https://www.acmicpc.net/problem/10866)
+
+- [회전하는 큐](https://www.acmicpc.net/problem/1021)
+- [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [미로 탐색](https://www.acmicpc.net/problem/2178)
+- [단지번호붙이기](https://www.acmicpc.net/problem/2667)

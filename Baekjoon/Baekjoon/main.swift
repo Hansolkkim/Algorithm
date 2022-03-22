@@ -70,3 +70,16 @@ mySolutionOf14713()
 
 //문제 10866번 출력
 mySolutionOf10866()
+
+//문제 1021번 출력
+mySolutionOf1021()
+
+//문제 1260번 출력
+mySolutionOf1260()
+
+//문제 2178번 출력
+mySolutionOf2178()
+
+//문제 2667번 출력
+mySolutionOf2667()
+mySolutionOf2667_2()

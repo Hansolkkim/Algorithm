@@ -23,6 +23,10 @@
 - [x] [프린터 큐](./Algorithm/Baekjoon/Baekjoon/p1966.swift)
 - [x] [앵무새](./Algorithm/Baekjoon/Baekjoon/p14713.swift)
 - [x] [덱](./Algorithm/Baekjoon/Baekjoon/p10866.swift)
+- [x] [회전하는 큐](./Algorithm/Baekjoon/Baekjoon/p1021.swift)
+- [x] [DFS와 BFS](./Algorithm/Baekjoon/Baekjoon/p1260.swift)
+- [x] [미로 탐색](./Algorithm/Baekjoon/Baekjoon/p2178.swift)
+- [x] [단지번호붙이기](./Algorithm/Baekjoon/Baekjoon/p2667.swift)
 
 
 
@@ -57,6 +61,7 @@
 - [x] [괄호 변환](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/괄호%20변환.swift)
 - [x] [소수 찾기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/소수%20찾기.swift)
 - [x] [이상한 문자 만들기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/이상한%20문자%20만들기.swift)
+- [x] [타겟 넘버](./Algorithm/Programmers/Programmers/타겟 넘버.swift)
 
 
 

@@ -84,3 +84,6 @@ print(findPrimeNum("1234"))
 
 //문제 "이상한 이름 만들기" 출력
 print(makeOddString("try hello world"))
+
+//문제 "타겟 넘버" 출력
+print(mySolutionOf타겟넘버(numbers: [1,1,1,1,1], target: 3))
