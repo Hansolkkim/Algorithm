@@ -34,3 +34,6 @@ print(removeElement([3,2,2,3], 3))
 
 //문제 "Container With Most Water" 출력
 print(maxArea([1,8,6,2,5,4,8,3,7]))
+
+//문제 "Count Common Words With One Occurrence" 출력
+print(countWord(["leetcode","is","amazing","as","is"], ["amazing","leetcode","is"]))
