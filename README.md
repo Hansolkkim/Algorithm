@@ -61,7 +61,7 @@
 - [x] [괄호 변환](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/괄호%20변환.swift)
 - [x] [소수 찾기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/소수%20찾기.swift)
 - [x] [이상한 문자 만들기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/이상한%20문자%20만들기.swift)
-- [x] [타겟 넘버](./Algorithm/Programmers/Programmers/타겟 넘버.swift)
+- [x] [타겟 넘버](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/타겟%20넘버.swift)
 
 
 
