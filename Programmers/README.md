@@ -26,3 +26,4 @@
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 * [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
 * [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+* [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
