@@ -87,3 +87,6 @@ print(makeOddString("try hello world"))
 
 //문제 "타겟 넘버" 출력
 print(mySolutionOf타겟넘버(numbers: [1,1,1,1,1], target: 3))
+
+//문제 "신고 결과 받기" 출력
+print(mySolutionOf신고_결과_받기(["muzi", "frodo", "apeach", "neo"], ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"], 2))
