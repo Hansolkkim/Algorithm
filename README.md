@@ -62,6 +62,8 @@
 - [x] [소수 찾기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/소수%20찾기.swift)
 - [x] [이상한 문자 만들기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/이상한%20문자%20만들기.swift)
 - [x] [타겟 넘버](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/타겟%20넘버.swift)
+- [x] [메뉴 리뉴얼]((https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/메뉴%20리뉴얼.swift))
+- [x] [신고 결과 받기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/신고%20결과%20받기.swift)
 
 
 
