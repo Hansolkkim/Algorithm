@@ -90,3 +90,6 @@ print(mySolutionOf타겟넘버(numbers: [1,1,1,1,1], target: 3))
 
 //문제 "신고 결과 받기" 출력
 print(mySolutionOf신고_결과_받기(["muzi", "frodo", "apeach", "neo"], ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"], 2))
+
+문제 "거리두기 확인하기" 출력
+print(mySolutionOf거리두기확인하기([["POOOP", "OXXOX", "OPXPX", "OOXOX", "POXXP"], ["POOPX", "OXPXP", "PXXXO", "OXXXO", "OOOPP"], ["PXOPX", "OXOXP", "OXPOX", "OXXOP", "PXPOX"], ["OOOXX", "XOOOX", "OOOXX", "OXOOX", "OOOOO"], ["PXPXP", "XPXPX", "PXPXP", "XPXPX", "PXPXP"]]))
