@@ -64,7 +64,8 @@
 - [x] [타겟 넘버](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/타겟%20넘버.swift)
 - [x] [메뉴 리뉴얼](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/메뉴%20리뉴얼.swift)
 - [x] [신고 결과 받기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/신고%20결과%20받기.swift)
-- [x] [거리두기 확인하기]((https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/거리두기%20확인하기.swift))
+- [x] [거리두기 확인하기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/거리두기%20확인하기.swift)
+- [x] [후보키](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/후보키.swift)
 
 
 
