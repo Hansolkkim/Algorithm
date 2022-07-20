@@ -5,7 +5,7 @@ func mySolutionOf메뉴리뉴얼(_ orders: [String],_ course: [Int]) -> [String]
     var courseDictionary = [String: Int]() // 각 메뉴의 조합이 주문되는 횟수를 저장하는 Dic.
     
     for _course in course {
-        let filteredOrders = orders.filter {$0.count >= _course} // orders 중 _cource보다 짧은 주문은 _cource 크기의 주문이 될 수 없기 때문에 제거해주고 시작
+        let filteredOrders = orders.filter {$0.count >= _course} // orders 중 _course보다 짧은 주문은 _course 크기의 주문이 될 수 없기 때문에 제거해주고 시작
         filteredOrders.forEach {
             let orderedMenu = dfs(with: $0, count: _course) // orders의 각 요소를 이용해 만들 수 있는 모든 메뉴 조합을 구하기 -> DFS (처음에는 Combination을 구현해 메뉴 조합을 구해보려고 하다가, 자료구조로 접근하는 방법이 더 좋다고 생각해 DFS 사용)
             orderedMenu.forEach { menu in // 찾아낸 모든 메뉴 조합을 courseDictionary에 추가해주는데, 이미 존재하는 key의 value는 +1 해주도록, 존재하지 않았던 key의 value는 1이 되도록
@@ -16,7 +16,7 @@ func mySolutionOf메뉴리뉴얼(_ orders: [String],_ course: [Int]) -> [String]
             .filter {$0.key.count == _course && $0.value >= 2} // course의 크기와 같고 2번 이상 주문된 key만 남기기
             .sorted {$0.value > $1.value} // value의 크기가 큰 key가 앞에 오도록 sort
 
-        if filteredCourseDic.count >= 1 { // course에 맞는 key가 하나도 없는 경우가 존재하여 해당 if문 추가
+        if filteredCourseDic.count >= 1 { // course에 맞는 key가 하나도 없는 경우가 존재하여 해당 if문 추가 // guard로 빈 걸 반환하느게 좋지 않나
             let target = filteredCourseDic.removeFirst() // value가 제일 큰 key만
             returnArray.append(target.key)               // returnArray에 추가해주기
 

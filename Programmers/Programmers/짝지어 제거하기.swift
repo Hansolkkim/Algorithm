@@ -23,3 +23,18 @@ func isRemovable(_ s: String) -> Int {
     }
     return targetStack.isEmpty ? 1 : 0
 }
+
+func isRemova(_ s: String) -> Int {
+    let s = Array(s)
+    var lastWordIndex = 0
+
+    for (index, char) in s.enumerated() {
+        if s[lastWordIndex] == char {
+            lastWordIndex = (lastWordIndex >= 1) ? lastWordIndex - 1 : 0
+        } else {
+            lastWordIndex = index
+        }
+    }
+
+    return (lastWordIndex == 0) ? 1 : 0
+}

@@ -99,3 +99,30 @@ print(mySolutionOf거리두기확인하기([["POOOP", "OXXOX", "OPXPX", "OOXOX",
 
 // 문제 "후보키" 출력
 print(mySolutionOf후보키([["a", "aa"], ["aa", "a"], ["a", "a"]]))
+
+// SkillCheckTest1 출력
+print(skillCheckTest1(6))
+
+// SkillCheckTest2 출력
+print(skillCheckTest2(-4, 2))
+
+// 방문길이 출력
+print(countNewLength("RLLL"))
+
+// 올바른 괄호 출력
+print(rightBracket("(()("))
+
+// 기능개발 출력
+print(기능개발([93, 30, 55], [1, 30, 5]))
+
+// 영어끝말잇기 출력
+print(영어끝말잇기(3, ["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]))
+
+// 베스트앨범 출력
+print(베스트앨범(["classic", "pop", "classic", "pop", "classic", "classic"], [400, 600, 150, 2500, 500, 500]))
+
+// 배달 출력
+print(배달(5, [[1,2,1],[2,3,3],[5,2,2],[1,4,2],[5,3,1],[5,4,2]], 3))
+
+// 이중우선순위큐 출력
+print(이중우선순위큐(["I 16", "I -5643", "D -1", "D 1", "D 1", "I 123", "D -1"]))
