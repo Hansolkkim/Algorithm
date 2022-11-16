@@ -47,3 +47,26 @@ func getPrintedOrder2(_ priorities: [Int], _ location: Int) -> Int {
 
     return count
 }
+
+func getPrintOrder3(_ priorities: [Int], _ location: Int) -> Int {
+    var priorities = priorities
+    var initialOrder = priorities.enumerated().map { $0.offset }
+    var count = 0
+    var cursor = 0
+    let limit = priorities.count
+    
+    while cursor < limit {
+        if let maxPriority = priorities.max(),
+           priorities[cursor] < maxPriority {
+            priorities.append(priorities[cursor])
+            initialOrder.append(initialOrder[cursor])
+        } else {
+            count += 1
+            if initialOrder[cursor] == location {
+                return count
+            }
+        }
+        cursor += 1
+    }
+    return count
+}

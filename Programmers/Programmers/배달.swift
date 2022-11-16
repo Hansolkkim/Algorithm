@@ -13,25 +13,22 @@ func 배달(_ N: Int,_ road: [[Int]],_ k: Int) -> Int {
 
     func getShortestDistance(distances: inout [Int], start: Int, n: Int) {
         distances[start] = 0
+        var cursor = -1
+        var queue = [start] // 우선 순위 큐
 
-        var queue = [start] // 이동 경로 저장될 큐
+        while cursor < queue.count - 1 {
+            cursor += 1
+            let startVillage = queue[cursor] // 큐에서 추출된 값
 
-        while !queue.isEmpty {
-            var reversed: [Int] = queue.reversed()
-            let startVillage = reversed.removeLast()
-            queue = reversed.reversed()
+            for route in road {
+                
+                if route[0] != startVillage && route[1] != startVillage { continue }
 
-            let filteredRoute = road.filter { $0[0] == startVillage || $0[1] == startVillage }
-
-            for route in filteredRoute {
                 let destination = (route[0] == startVillage) ? route[1] : route[0]
+                let currDistance = distances[startVillage] + route[2]
 
-                if distances[startVillage] == max { continue }
-
-                let currentDistance = distances[startVillage] + route[2]
-
-                if currentDistance < distances[destination] {
-                    distances[destination] = currentDistance
+                if currDistance < distances[destination] {
+                    distances[destination] = currDistance
 
                     queue.append(destination)
                 }

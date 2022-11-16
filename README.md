@@ -73,6 +73,16 @@
 - [x] [베스트 앨범](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/베스트앨범.swift)
 - [x] [배달](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/배달.swift)
 - [x] [이중 우선순위큐](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/이중우선순위큐.swift)
+- [x] [가장 먼 노드](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/가장먼노드.swift)
+- [x] [문자열 압축](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/문자열압축.swift)
+- [x] [게임 맵 최단거리](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/게임맵최단거리.swift)
+- [x] [입국 심사](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/입국심사.swift)
+- [x] [소수 만들기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/소수만들기.swift)
+- [x] [큰 수 만들기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/큰수만들기.swift)
+- [x] [점프와 순간이동](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/점프와순간이동.swift)
+- [x] [N으로 표현](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/N으로표현.swift)
+- [x] [섬 연결하기](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/섬연결하기.swift)
+- [x] [연속 부분 수열 합의 개수](https://github.com/Hansolkkim/Algorithm/blob/main/Programmers/Programmers/연속부분수열합의개수.swift)
 
 
 
